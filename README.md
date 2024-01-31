@@ -2,6 +2,12 @@
 ### credit_score_classification
 Project 4
 
+# Link to Tableau Dashboard:
+# https://public.tableau.com/views/Project4CreditRiskClassificationDashboard/Dashboard3?:language=en-US&:display_count=n&:origin=viz_share_link
+
+# Link to slides
+# https://docs.google.com/presentation/d/1ossgVoKo0HS_SjIL9Y_CG9V0t8F630mMQ4Vm52u_ejc/edit?usp=sharing
+
 # Description
 Utilize machine learning to develop an accurate system for classifying an individual's credit score. Utilized Tableau for data visualizations.
 
