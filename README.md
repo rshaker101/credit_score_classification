@@ -10,7 +10,8 @@ Utilize machine learning to develop an accurate system for classifying an indivi
 - See `df_train_cleaned.csv` for exported clean dataset used for data analysis.
 - See `confusion_matrix_1.csv` for exported confusion matrix using Random Forest model.
 - See `confusion_matrix_optimization.csv` for exported confusion matrix of the optimized model.
-- For slideshow presentation, click [here](https://docs.google.com/presentation/d/1ossgVoKo0HS_SjIL9Y_CG9V0t8F630mMQ4Vm52u_ejc/edit#slide=id.gdcb566e1d5_0_62)
+- For slideshow presentation, click [here](https://docs.google.com/presentation/d/1ossgVoKo0HS_SjIL9Y_CG9V0t8F630mMQ4Vm52u_ejc/edit#slide=id.gdcb566e1d5_0_62).
 
 # References
-- Rohan Paris, (2022). Credit score classification [dataset]. Kaggle. https://www.kaggle.com/datasets/parisrohan/credit-score-classification
+- Rohan Paris. (2022, June 22). Credit score classification. Kaggle. https://www.kaggle.com/datasets/parisrohan/credit-score-classification
+- Saloni Jhalani. (2023, May 31). Credit score classification. Kaggle. https://www.kaggle.com/code/saloni1712/credit-score-classification/notebook
